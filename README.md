@@ -49,7 +49,7 @@ Each notebook includes:
 * Cancer Detection Project
 * Project Abalone
 * Project HR
-* 
+
 ---
 
 ## 🎯 Objective
