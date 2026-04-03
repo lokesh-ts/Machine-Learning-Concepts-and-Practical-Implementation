@@ -68,8 +68,8 @@ To develop strong Machine Learning skills by implementing core concepts and appl
 
 ## 📎 Author
 
-T.S.Lokesh
-B.Tech ECE (3rd Year)
+T.S.Lokesh  
+B.Tech ECE (3rd Year)  
 JNTUA College of Engineering, Kalikiri
 
 ---
